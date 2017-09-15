@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA;;eAEe;AAad;;cAEc;AASd;;cAEc;AAYd;;cAEc;AC1Cf,EAAG;EACF,UAAU,EAAE,IAAI",
+"mappings": "AAAA;;eAEe;AAad;;cAEc;AASd;;cAEc;AAYd;;cAEc;AC1Cf,EAAG;EACF,UAAU,EAAE,KAAK",
 "sources": ["../scss/variables.scss","../scss/custom.scss"],
 "names": [],
 "file": "global.css"
